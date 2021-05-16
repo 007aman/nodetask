@@ -1,0 +1,14 @@
+[
+    {
+      "name":"Laptop",
+      "description":"Demo Laptops"
+    },
+    {
+        "name":"Mobile",
+        "description":"Demo Mobiles"
+    },
+    {
+        "name":"Tables",
+        "description":"Demo Tables"
+    }
+]
